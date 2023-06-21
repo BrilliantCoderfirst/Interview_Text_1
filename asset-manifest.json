@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Interview_Text_1/static/css/main.4bfdcdfe.css",
-    "main.js": "/Interview_Text_1/static/js/main.59bf3fd6.js",
-    "index.html": "/Interview_Text_1/index.html",
-    "main.4bfdcdfe.css.map": "/Interview_Text_1/static/css/main.4bfdcdfe.css.map",
-    "main.59bf3fd6.js.map": "/Interview_Text_1/static/js/main.59bf3fd6.js.map"
+    "main.css": "/SKIDS_Health_Assignment/static/css/main.04f08425.css",
+    "main.js": "/SKIDS_Health_Assignment/static/js/main.cae85616.js",
+    "static/media/formImage.png": "/SKIDS_Health_Assignment/static/media/formImage.2da3d69cf31e6f3bf09e.png",
+    "index.html": "/SKIDS_Health_Assignment/index.html",
+    "main.04f08425.css.map": "/SKIDS_Health_Assignment/static/css/main.04f08425.css.map",
+    "main.cae85616.js.map": "/SKIDS_Health_Assignment/static/js/main.cae85616.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bfdcdfe.css",
-    "static/js/main.59bf3fd6.js"
+    "static/css/main.04f08425.css",
+    "static/js/main.cae85616.js"
   ]
 }
